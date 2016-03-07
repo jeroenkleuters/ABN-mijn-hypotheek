@@ -1,0 +1,853 @@
+ {
+	"Level":"1",
+	"Titel":"Over welk onderwerp heeft u een vraag?",
+	"Description":"",
+	"Options": [{
+
+		"Level":"2",
+		"Titel":"Wat wilt u wijzigen?",
+		"Url":"",
+		"UrlText":"Wijzigingen",
+		"UrlAltText":"",
+		"Description":"",
+		"Options":[{
+
+			"Level":"3",
+			"Titel":"Staat uw bedrijf ingeschreven bij de KvK?",
+			"Url":"",
+			"UrlText":"Adres- & Contactgegevens",
+			"UrlAltText":"",
+			"Description":"",
+			"Options":[{
+
+				"Level":"4",
+				"Titel":"U hoeft het nieuwe adres waarschijnlijk alleen aan de KvK door te geven",
+				"Url":"",
+				"UrlText":"Wel ingeschreven bij de KvK",
+				"UrlAltText":"",
+				"Description":"Staat uw bedrijf ingeschreven bij de KvK én heeft het een omzet tot 1 miljoen euro (kleinzakelijk)? Dan hoeft u het nieuwe adres alleen aan de KvK door te geven. Wij nemen deze gegevens automatisch over. Zodra uw adres bij ons is gewijzigd, ontvangt u binnen 5 werkdagen een bevestiging per bankmail.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"http://www.kvk.nl/inschrijven-en-wijzigen/#wijziging-doorgeven",
+					"UrlText":"Wijziging doorgeven aan de KvK",
+					"UrlAltText":"Wijziging doorgeven op www.kvk.nl"
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/rekening-beheren/f_adreswijziging2.html",
+					"UrlText":"Mijn omzet is meer dan 1 miljoen euro",
+					"UrlAltText":"Uw zakelijke gegevens wijzigen"
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/rekening-beheren/f_adreswijziging2.html",
+					"UrlText":"Het adres is voor oktober 2014 gewijzigd",
+					"UrlAltText":"Uw zakelijke gegevens wijzigen"
+				}]
+
+			},{
+
+				"Level":"4",
+				"Titel":"U kunt online uw nieuwe gegevens aan ons doorgeven",
+				"Url":"",
+				"UrlText":"Niet ingeschreven bij KvK",
+				"UrlAltText":"",
+				"Description":"Staat uw bedrijf niet ingeschreven bij de KvK? Dan geeft u uw nieuwe adres- en contactgegevens online aan ons door.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/rekening-beheren/f_adreswijziging1.html",
+					"UrlText":"Nieuwe adres- en contactgegevens doorgeven",
+					"UrlAltText":"Uw zakelijke gegevens wijzigen"
+				}]
+
+			}],
+			"descriptionLinks":[]
+
+		},{
+
+			"Level":"3",
+			"Titel":"Uw bedrijfsgegevens wijzigen",
+			"Url":"",
+			"UrlText":"Bedrijfsgegevens",
+			"UrlAltText":"",
+			"Description":"Geeft u uw bedrijf een andere naam, of verandert er iets in het bestuur? Geef dit dan meteen online aan ons door.",
+			"Options":[],
+			"descriptionLinks":[{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/rekening-beheren/f_naamswijziging_schakel.html",
+				"UrlText":"Naam van uw bedrijf of handelsnaam wijzigen",
+				"UrlAltText":"De officiële naam en/of handelsnaam van uw bedrijf wijzigen"
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/rekening-beheren/f_bestuurswijziging.html",
+				"UrlText":"Bestuurswijziging doorgeven",
+				"UrlAltText":"Wijziging doorgeven op www.kvk.nl"
+			}]
+		},{
+
+			"Level":"3",
+			"Titel":"Personen machtigen en rekeninghouders wijzigen",
+			"Url":"",
+			"UrlText":"Machtigingen / rekeninghouders",
+			"UrlAltText":"",
+			"Description":"Wilt u iemand machtigen om te betalen via uw rekening? Of wilt u rekeninghouders toevoegen of verwijderen? Ook dit regelt u allemaal heel eenvoudig online.",
+			"Options":[],
+			"descriptionLinks":[{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/rekening-beheren/advies-bestuurder-wijzigen.html",
+				"UrlText":"Rekeninghouder toevoegen of verwijderen",
+				"UrlAltText":"Rekeninghouders beheren"
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/rekening-beheren/machtiging.html",
+				"UrlText":"Iemand machtigen",
+				"UrlAltText":"Machtigingen beheren"
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/rekening-beheren/machtiging.html",
+				"UrlText":"Een machtiging wijzigen of intrekken",
+				"UrlAltText":"Machtigingen beheren (wijzigen of intrekken)"
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/rekening-beheren/machtiging.html",
+				"UrlText":"Iemand toegang geven tot mijn Internet Bankieren",
+				"UrlAltText":"Machtigingen beheren"
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/rekening-beheren/machtiging.html",
+				"UrlText":"Iemand laten pinnen van mijn rekening",
+				"UrlAltText":"Machtigingen beheren"
+			}]
+		},{
+
+			"Level":"3",
+			"Titel":"Een extra rekening aanvragen of een rekening opheffen",
+			"Url":"",
+			"UrlText":"Rekening aanvragen of opheffen",
+			"UrlAltText":"",
+			"Description":"Wilt u een extra rekening openen? Of wilt u uw betaal- of spaarrekening opheffen? Ook dit heeft u zo online geregeld. Een spaarrekening kunt u bovendien ook wijzigen.",
+			"Options":[],
+			"descriptionLinks":[{
+				"Url":"https://www.abnamro.nl/portalserver/nl/bankieren/zakelijke-rekening-openen/ondernemersrekening/311?mbpid=",
+				"UrlText":"Extra rekening openen",
+				"UrlAltText":"Een extra rekening aanvragen"
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/rekening-beheren/zakelijke-rekening-opheffen.html",
+				"UrlText":"Mijn betaalrekening opheffen",
+				"UrlAltText":"Rekening beëindigen"
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/sparen/spaarrekening-wijzigen-opheffen.html",
+				"UrlText":"Mijn spaarrekening opheffen of wijzigen",
+				"UrlAltText":"Spaarrekening beëindigen of wijzgen"
+			}]
+		}],
+		"descriptionLinks":[]
+
+	},{	
+
+		"Level":"2",
+		"Titel":"Wat wilt u weten of regelen?",
+		"Url":"",
+		"UrlText":"Internet Bankieren",
+		"UrlAltText":"",
+		"Description":"",
+		"Options":[{
+
+			"Level":"3",
+			"Titel":"Wat wilt u beheren of wijzigen?",
+			"Url":"",
+			"UrlText":"Internet Bankieren Beheren",
+			"UrlAltText":"",
+			"Description":"",
+			"Options":[{
+
+				"Level":"4",
+				"Titel":"Uw betaalprofiel wijzigen",
+				"Url":"",
+				"UrlText":"Betaalprofiel wijzigen",
+				"UrlAltText":"",
+				"Description":"Veiligheid boven alles. Daarom staat uw 'betaalprofiel' standaard op pinnen in Europa. Wilt u buiten Europa pinnen? In uw Internet Bankieren heeft u dat in een paar seconden geregeld. En u zet uw instellingen na uw reis ook zó weer terug.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/portalserver/nl/zakelijk/betalen/betaalprofiel/f_wijzigen_.html?s",
+					"UrlText":"Mijn betaalprofiel instellen",
+					"UrlAltText":"Verander het betaalprofiel van uw pas"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/betaalprofiel/index.html",
+					"UrlText":"Meer informatie over het betaalprofiel",
+					"UrlAltText":"Algemene informatie over betaalprofielen"	
+				}]
+			
+
+				},{
+
+				"Level":"4",
+				"Titel":"Bevoegdheden van anderen op uw rekening beheren",
+				"Url":"",
+				"UrlText":"Bevoegdheden",
+				"UrlAltText":"",
+				"Description":"U stelt in Internet Bankieren ook gemakkelijk in tot welke rekeningen uw medewerkers toegang krijgen. U kunt per keer maximaal 5 medewerkers toegang verlenen voor maximaal 5 bedrijven of instellingen.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/internetbankieren/mogelijkheden/bevoegdheden-van-uw-medewerkers-beheren.html",
+					"UrlText":"Bevoegdheden medewerkers beheren",
+					"UrlAltText":"Wijzig de bevoegdheden van uw medewerkers"
+					}]
+				},{
+
+				"Level":"4",
+				"Titel":"Rekeninghouders toevoegen of verwijderen",
+				"Url":"",
+				"UrlText":"Rekeninghouders beheren",
+				"UrlAltText":"",
+				"Description":"Wilt u een rekeninghouder toevoegen aan of juist verwijderen van uw rekening? En staan de bestuurders die de rekening gaan gebruiken al ingeschreven bij de Kamer van Koophandel? Zo ja, dan kunt u de wijziging direct online doorgeven. Anders moet u eerst uw inschrijving aanpassen voordat u uw wijziging doorgeeft aan ons.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/rekening-beheren/advies-bestuurder-wijzigen.html",
+					"UrlText":"Rekeninghouder toevoegen of verwijderen",
+					"UrlAltText":"Beheer de rekeninghouders van uw rekening"
+					}]
+				},{
+
+				"Level":"4",
+				"Titel":"Een SEPA-incasso of Nederlandse incasso terugboeken",
+				"Url":"",
+				"UrlText":"Incasso terugboeken",
+				"UrlAltText":"",
+				"Description":"Bent u het niet eens met een afschrijving van een SEPA-incasso Algemeen? Deze kunt u binnen 8 weken na afschrijving laten terugboeken. Een Nederlandse incasso kunt u in de meeste gevallen ook laten terugboeken.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/incasso/terugboeken.html",
+					"UrlText":"Incasso laten terugboeken",
+					"UrlAltText":"Storneer een incasso"
+				}]
+			}],
+			"descriptionLinks":[]
+
+
+		},{		
+
+			"Level":"3",
+			"Titel":"Handige diensten en tools voor uw administratie",
+			"Url":"",
+			"UrlText":"Uw administratie",
+			"UrlAltText":"",
+			"Description":"",
+			"Options":[{
+
+				"Level":"4",
+				"Titel":"Importeer betaalopdrachten of download bestanden uit Internet Bankieren",
+				"Url":"",
+				"UrlText":"Im- en exporteren betaalopdrachten",
+				"UrlAltText":"",
+				"Description":"Betalingsopdrachten importeert u vanuit uw boekhoudprogramma eenvoudig in Internet Bankieren. Ook kunt u bestanden vanuit Internet Bankieren exporteren naar uw boekhoudprogramma.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/internetbankieren/mogelijkheden/hoe-importeer-ik-een-bestand.html",
+					"UrlText":"Bestanden importeren",
+					"UrlAltText":"Lees hoe u bestanden kunt importeren"
+					},
+					{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/internetbankieren/mogelijkheden/bestanden-downloaden.html",
+					"UrlText":"Bestanden downloaden",
+					"UrlAltText":"Download transactiegegevens"
+					}]
+				},{
+
+				"Level":"4",
+				"Titel":"Bepaal hoe en hoe vaak u rekeningafschriften ontvangt",
+				"Url":"",
+				"UrlText":"Rekeningafschriften",
+				"UrlAltText":"",
+				"Description":"Met de zakelijke rekeningafschriften heeft u een goed overzicht van uw bij- en afschrijvingen. U bepaalt online heel gemakkelijk zelf hoe en hoe vaak u deze wilt ontvangen.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/rekeningafschriften/index.html",
+					"UrlText":"Rekeningafschriften beheren",
+					"UrlAltText":"Wijzig uw rekeningafschriften"
+					}]
+				},{
+
+				"Level":"4",
+				"Titel":"Stel gratis uw betaalalerts in",
+				"Url":"",
+				"UrlText":"Betaalalerts",
+				"UrlAltText":"",
+				"Description":"Via Betaalalerts ontvangt u direct een melding per sms of e-mail als er iets aan het saldo op uw betaalrekening verandert, bijvoorbeeld door een bij- of afschrijving.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/betaalalerts/index.html",
+					"UrlText":"Betaalalerts instellen",
+					"UrlAltText":"Stel betaalalerts in"
+					}]
+				},{
+
+				"Level":"4",
+				"Titel":"Gratis uw boekhouding koppelen aan Internet Bankieren",
+				"Url":"",
+				"UrlText":"Boekhoudkoppeling",
+				"UrlAltText":"",
+				"Description":"U kunt Internet Bankieren gratis koppelen aan uw online boekhoudprogramma met de Boekhoudkoppeling. Dan worden alle bij- en afschrijvingen automatisch bijgewerkt.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/boekhoudkoppeling/f_aanvragen.html",
+					"UrlText":"Boekhoudkoppeling aanvragen",
+					"UrlAltText":"Direct de Boekhoudkoppeling aanvragen"
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/boekhoudkoppeling/index.html",
+					"UrlText":"Meer informatie over de Boekhoudkoppeling",
+					"UrlAltText":"Algemene informatie Boekhoudkoppeling"
+				}]
+
+			}],
+			"descriptionLinks":[]
+		},{
+
+			"Level":"3",
+			"Titel":"Bekijk instructievideo's voor Internet Bankieren",
+			"Url":"",
+			"UrlText":"Uitleg Internet Bankieren",
+			"UrlAltText":"",
+			"Description":"We helpen u graag bij het Internet Bankieren. Bijvoorbeeld met heldere instructievideo's. In iedere video wordt één onderwerp uitgelegd, kort en duidelijk.",
+			"Options":[],
+			"descriptionLinks":[{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/internetbankieren/instructievideos.html",
+				"UrlText":"Direct naar de instructievideo's",
+				"UrlAltText":"Bekijk de instructievideo's"	
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/over-abnamro/veiligheid/index.html",
+				"UrlText":"Veilig bankieren",
+				"UrlAltText":"Wat u kunt doen tegen fraude"	
+			}]
+
+		},{
+
+			"Level":"3",
+			"Titel":"Snel een e.dentifier aanvragen",
+			"Url":"",
+			"UrlText":"E.dentifier aanvragen",
+			"UrlAltText":"",
+			"Description":"Heeft u Internet Bankieren maar nog geen e.dentifier. Vraag direct een nieuwe aan. U ontvangt de e.dentifier2 dan binnen 1-2 werkdagen.",
+			"Options":[],
+			"descriptionLinks":[{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/internetbankieren/mogelijkheden/nieuwe-edentifier.html",
+				"UrlText":"Nu aanvragen",
+				"UrlAltText":"Vraag direct een e.dentifier aan"	
+			}]
+
+		}],
+		"descriptionLinks":[]
+
+	},{		
+
+		"Level":"2",
+		"Titel":"Betalen en betaald worden",
+		"Url":"",
+		"UrlText":"Betalen",
+		"UrlAltText":"",
+		"Description":"",
+		"Options":[{
+
+			"Level":"3",
+			"Titel":"Betaalmogelijkheden voor klanten",
+			"Url":"",
+			"UrlText":"Betaaloplossingen",
+			"UrlAltText":"",
+			"Description":"U bepaalt zelf welke betaalmogelijkheden uw klanten hebben. En u regelt het vaak direct online.",
+			"Options":[],
+			"descriptionLinks":[{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/pin-in-one/index.html",
+				"UrlText":"Pin-in-One: pinautomaat en -contract",
+				"UrlAltText":"Oplossing voor een Pinautomaat en -contractOplossing voor een Pinautomaat en -contract"	
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/pincontract/index.html",
+				"UrlText":"Pincontract",
+				"UrlAltText":"Een pincontract aanvragen"	
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/contant-geld/index.html",
+				"UrlText":"Contant geld",
+				"UrlAltText":"Informatie over contant geld"	
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/online-betalen/index.html",
+				"UrlText":"Betalen via iDEAL",
+				"UrlAltText":"Betaaloplossingen via iDEAL"	
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/incasso/index.html",
+				"UrlText":"Per incasso",
+				"UrlAltText":"Betalingen via incasso"	
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/lindorff.html",
+				"UrlText":"Als uw klanten niet betalen",
+				"UrlAltText":"Incassobureau Lindorff"	
+			}]
+
+		},{
+
+			"Level":"3",
+			"Titel":"Pinnen en betalen buiten Europa",
+			"Url":"",
+			"UrlText":"Betaalprofiel wijzigen",
+			"UrlAltText":"",
+			"Description":"Veiligheid boven alles. Daarom staat uw 'betaalprofiel' standaard op pinnen in Europa. Wilt u buiten Europa pinnen? In uw Internet Bankieren heeft u dat in een paar seconden geregeld. En u zet uw instellingen na uw reis ook zó weer terug.",
+			"Options":[],
+			"descriptionLinks":[{
+				"Url":"https://www.abnamro.nl/portalserver/nl/zakelijk/betalen/betaalprofiel/f_wijzigen_.html?s",
+				"UrlText":"Uw betaalprofiel wijzigen",
+				"UrlAltText":"Wijzig uw betaalprofiel"	
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/betaalprofiel/index.html",
+				"UrlText":"Meer informatie over het betaalprofiel",
+				"UrlAltText":"Uitleg over het betaalprofiel"	
+			}]
+
+		},{
+
+			"Level":"3",
+			"Titel":"Betaalpas en creditcard gebruiken",
+			"Url":"",
+			"UrlText":"Uw passen beheren",
+			"UrlAltText":"",
+			"Description":"",
+			"Options":[{
+
+				"Level":"4",
+				"Titel":" Wijzig het bestedingslimiet op uw betaalpas",
+				"Url":"",
+				"UrlText":"Limiet betaalpas wijzigen",
+				"UrlAltText":"",
+				"Description":"Op uw betaalpas kunt u eenvoudig uw bestedingslimiet verhogen. Dit kan ook tijdelijk: na de door u bepaalde periode verlaagt u de limiet gewoon weer.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/betaal-pas/f_service_limietwijzigen.html",
+					"UrlText":"De limiet van mijn betaalpas wijzigen",
+					"UrlAltText":"Wijzig het limiet op uw betaalpas"	
+				}]
+
+			},{
+
+				"Level":"4",
+				"Titel":"Betaalpas activeren of aanvragen",
+				"Url":"",
+				"UrlText":"Activeren of aanvragen",
+				"UrlAltText":"",
+				"Description":"Uw pas activeren of een nieuwe aanvragen? Ook dat regelt u snel en gemakkelijk.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/betaalpas/activeren.html",
+					"UrlText":"Uw betaalpas activeren",
+					"UrlAltText":"Activeer uw betaalpas"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/betaal-pas/f_extrapas_s.html",
+					"UrlText":"Een extra pas aanvragen",
+					"UrlAltText":"Vraag een extra pas aan"	
+				}]
+
+			},{
+
+				"Level":"4",
+				"Titel":"Betaalpas of creditcard direct blokkeren",
+				"Url":"",
+				"UrlText":"Blokkeren",
+				"UrlAltText":"",
+				"Description":"Bent u uw betaalpas of creditcard kwijt? Of is betaalpas of creditcard gestolen? Voorkom misbruik en laat uw pas direct blokkeren.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/betaalpas/blokkeren.html",
+					"UrlText":"Uw betaalpas blokkeren",
+					"UrlAltText":"Direct uw pas blokkeren"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/creditcard/uw-zakelijke-creditcard/creditcard-blokkeren.html",
+					"UrlText":"Uw creditcard blokkeren",
+					"UrlAltText":"Direct uw creditcard blokkeren"	
+				}]
+
+			},{
+
+				"Level":"4",
+				"Titel":"Uw creditcard beheren",
+				"Url":"",
+				"UrlText":"Beheer uw creditcard",
+				"UrlAltText":"",
+				"Description":"Ook wijzigingen omtrent uw creditcard regelt u voor een groot deel online. Bijvoorbeeld uw card blokkeren of de limiet wijzigen. Of het wijzigen van uw bedrijfsgegevens en rekeningnummers.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/creditcard/uw-zakelijke-creditcard",
+					"UrlText":"Regels alles rondom uw creditcard",
+					"UrlAltText":"Overzicht van services voor uw creditcard"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/creditcard/uw-zakelijke-creditcard",
+					"UrlText":"Creditcard blokkeren",
+					"UrlAltText":"Direct uw creditcard blokkeren"	
+				}]
+
+			}],
+			"descriptionLinks":[]
+
+		},{
+
+			"Level":"3",
+			"Titel":"Onze zakelijke tarieven",
+			"Url":"",
+			"UrlText":"Zakelijke kosten en tarieven",
+			"UrlAltText":"",
+			"Description":"We hebben de kosten voor de zakelijke betaalproducten handig onder elkaar gezet. U betaalt deze kosten per maand. Ook de kosten van de uitgevoerde transacties betaalt u maandelijks.",
+			"Options":[],
+			"descriptionLinks":[{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/tarieven/index.html",
+				"UrlText":"Zakelijke tarieven",
+				"UrlAltText":"Bekijk alle zakelijke tarieven"
+			}]
+
+		}],
+		"descriptionLinks":[]
+
+	},{		
+
+		"Level":"2",
+		"Titel":"Wat wilt u weten over financieringen?",
+		"Url":"",
+		"UrlText":"Financieringen",
+		"UrlAltText":"",
+		"Description":"",
+		"Options":[{
+
+			"Level":"3",
+			"Titel":"Uitleg over de aanvraag van een financiering",
+			"Url":"",
+			"UrlText":"Hoe werkt een financiering?",
+			"UrlAltText":"",
+			"Description":"",
+			"Options":[{
+
+				"Level":"4",
+				"Titel":"Voordat u een financiering aanvraagt",
+				"Url":"",
+				"UrlText":"Vóór de aanvraag",
+				"UrlAltText":"",
+				"Description":"Welke documenten heeft u nodig voor een aanvraag en wat doet u als u deze heeft verzameld? Het aanvragen van een krediet gaat niet vanzelf. U moet bijvoorbeeld eerst een goed ondernemersplan hebben. ABN AMRO helpt u daar natuurlijk graag bij.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://verdermetfinancieren.abnamro.nl/financieringsaanvraag/wat-moet-u-aanleveren-bij-een-financieringsaanvraag/",
+					"UrlText":"Wat heeft u nodig voor een financieringsaanvraag?",
+					"UrlAltText":"Benodigdheden voor een financieringsaanvraag"	
+				},{
+					"Url":" https://ondernemingsplan.atobe.nl/",
+					"UrlText":"Meer over een ondernemingsplan",
+					"UrlAltText":"Hulp bij uw ondernemingsplan"	
+				},{
+					"Url":"https://verdermetfinancieren.abnamro.nl/",
+					"UrlText":"Alles over financieren bij ABN AMRO",
+					"UrlAltText":"Verder met Financieren"	
+				}]
+
+			},{
+
+				"Level":"4",
+				"Titel":"Verloop aanvraag van een financieringsaanvraag",
+				"Url":"",
+				"UrlText":"Verloop van de aanvraag",
+				"UrlAltText":"",
+				"Description":"Wilt u een financiering aanvragen? Dan is het handig om te weten hoe uw aanvraag verloopt.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/lenen/kredietproces/index.html",
+					"UrlText":"Het verloop van uw financieringsaanvraag",
+					"UrlAltText":"Het proces van een financieringsaanvraag"	
+				}]
+
+			}],
+			"descriptionLinks":[]
+
+		},{
+
+			"Level":"3",
+			"Titel":"Verschillende financieringsvormen op een rij",
+			"Url":"",
+			"UrlText":"Vormen van financiering",
+			"UrlAltText":"",
+			"Description":"",
+			"Options":[{
+
+				"Level":"4",
+				"Titel":"Verschillende kredieten",
+				"Url":"",
+				"UrlText":"Krediet",
+				"UrlAltText":"",
+				"Description":"Financiering voor uw onderneming.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/lenen/ondernemerskrediet/index.html",
+					"UrlText":"OndernemersKrediet (van € 5.000 tot € 25.000)",
+					"UrlAltText":"Zakelijk krediet vanaf 5.000 euro tot 25.000 Euro"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/lenen/bedrijfskrediet/index.html",
+					"UrlText":"BedrijfsKrediet (vanaf € 25.000)",
+					"UrlAltText":"Zakelijk krediet vanaf 25.000 Euro"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/lenen/borgstellingskrediet/index.html",
+					"UrlText":"Borgstellingskrediet",
+					"UrlAltText":"Zakelijk Krediet met garantie van de overheid"	
+				}]
+
+			},{
+
+				"Level":"4",
+				"Titel":"Informatie over Lease",
+				"Url":"",
+				"UrlText":"Lease",
+				"UrlAltText":"",
+				"Description":"Financiering voor uw bedrijfsmiddelen.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/lenen/lease/index.html",
+					"UrlText":"Waarom Lease?",
+					"UrlAltText":"Wat kan Lease voor uw onderneming betekenen?"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/lenen/lease/uitleg.html",
+					"UrlText":"Hoe werkt het?",
+					"UrlAltText":"Uitleg over Lease"	
+				},{
+					"Url":"https://www.abnamrolease.nl/wat-kunt-u-leasen/?makeCalculation=1",
+					"UrlText":"Leasecalculator: een snelle indicatie van de kosten",
+					"UrlAltText":"Bereken snel uw Lease bedrag"	
+				}]
+
+			},{
+
+				"Level":"4",
+				"Titel":"Een andere manier van financieren",
+				"Url":"",
+				"UrlText":"Lenen zonder bank",
+				"UrlAltText":"",
+				"Description":"Uiteraard zijn er ook andere manieren om aan geld voor uw onderneming te komen. Bijvoorbeeld door van familie of vrienden te lenen. Dit noemen we 'onderhands lenen'.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/lenen/onderhands-lenen/index.html",
+					"UrlText":"Onderhands lenen",
+					"UrlAltText":"Geld lenen zonder tussenkomst van een bank"	
+				}]
+
+			}],
+			"descriptionLinks":[]
+
+		},{
+
+			"Level":"3",
+			"Titel":"Ontdek welk krediet bij u past",
+			"Url":"",
+			"UrlText":"Welk krediet past bij mij?",
+			"UrlAltText":"",
+			"Description":"De Kredietwijzer is een handig hulpmiddel om te bepalen welke financieringsvorm het beste bij u past. U bent in een paar minuten klaar.",
+			"Options":[],
+			"descriptionLinks":[{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/lenen/berekenen.html",
+				"UrlText":"Doe de Kredietwijzer",
+				"UrlAltText":"Bekijk welke financieringsvorm bij u past"
+			}]
+
+		},{
+
+			"Level":"3",
+			"Titel":"Aanvragen of wijzigen van een garantie",
+			"Url":"",
+			"UrlText":"Bankgarantie",
+			"UrlAltText":"",
+			"Description":"Een bankgarantie biedt de zekerheid dat een afgesproken prestatie wordt geleverd. Zo niet, dan krijgt de tegenpartij een financiële compensatie. U staat daarmee extra sterk in een onderhandeling of bij een grote transactie.Bij ABN AMRO vraagt u heel eenvoudig online een garantie aan. Uw bestaande bankgarantie wijzigen doet u ook online.",
+			"Options":[],
+			"descriptionLinks":[{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/garanties/index.html",
+				"UrlText":"Ik wil meer informatie over garanties",
+				"UrlAltText":"Lees meer over de Garantie mogelijkheden van ABN AMRO"
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/garanties/index.html",
+				"UrlText":"Ik wil een garantie aanvragen",
+				"UrlAltText":"Vraag hier uw garantie aan"
+			},{
+				"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/garanties/f_wijzig.html",
+				"UrlText":"Ik wil een garantie wijzigen",
+				"UrlAltText":"Wijzig hier uw huidige garantie"
+			}]
+
+		}],
+		"descriptionLinks":[]
+
+	}],
+	"descriptionLinks":[
+	{	
+		"Level":"1",
+		"Url":"#",
+		"UrlText":"Anders",
+		"UrlAltText":"een overzicht van andere opties",
+		"Options":[{
+
+				"Level":"2",
+				"Titel":"Wat wilt u met spoed regelen?",
+				"Url":"",
+				"UrlText":"Met spoed regelen",
+				"UrlAltText":"",
+				"Description":"Maak een keuze.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/verzekeren/schade-melden/index.html",
+					"UrlText":"Schade melden",
+					"UrlAltText":"Meld hier uw schade online"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/betaalpas/blokkeren.html",
+					"UrlText":"Betaalpas blokkeren",
+					"UrlAltText":"Blokkeer hier uw betaalpas online"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/creditcard/uw-zakelijke-creditcard/creditcard-blokkeren.html",
+					"UrlText":"Creditcard blokkeren",
+					"UrlAltText":"Blokkeer hier uw creditcard online"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/overabnamro/veiligheid/index.html#vermoedt3",
+					"UrlText":"Fraude melden",
+					"UrlAltText":"Melding maken van fraude"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/incasso/terugboeken.html",
+					"UrlText":"Incasso terugboeken",
+					"UrlAltText":"Storneer een incasso"	
+				}]
+
+			},{
+
+				"Level":"2",
+				"Titel":"Informatie over het aanvragen van een rekening",
+				"Url":"",
+				"UrlText":"Ik wil klant worden",
+				"UrlAltText":"",
+				"Description":"Uw zakelijke rekening vraagt u direct online aan. Binnen 5 minuten zelfs! Daarna zorgen wij dat u de rekening zo snel mogelijk kunt gebruiken. Dit duurt ongeveer 5 tot 7 werkdagen.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/zakelijke-rekening-openen/index.html",
+					"UrlText":"Informatie over een zakelijke rekening",
+					"UrlAltText":"Informatie over een zakelijke rekening"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/zakelijke-rekening-openen/rekening-openen.html",
+					"UrlText":"Direct uw rekening aanvragen",
+					"UrlAltText":"Vraag hier uw rekening aan"	
+				}]
+
+			},{
+
+				"Level":"2",
+				"Titel":"Direct uw vraag aan de juiste persoon stellen",
+				"Url":"",
+				"UrlText":"Ik wil direct contact",
+				"UrlAltText":"",
+				"Description":"Veel bankzaken kunt u direct online regelen. Heeft u nog vragen? Dan vindt u hier snel de juiste persoon om uw vraag te beantwoorden.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/klantenservice/neem-contact-met-ons-op.html",
+					"UrlText":"Neem contact met ons op",
+					"UrlAltText":"Neem telefonisch contact op"	
+				}]
+
+			},{
+
+				"Level":"2",
+				"Titel":"Passende verzekering(en) voor uw bedrijf",
+				"Url":"",
+				"UrlText":"Verzekeringen",
+				"UrlAltText":"",
+				"Description":"U wilt niet alleen uw bedrijfsrisico's goed verzekeren maar ook andere zaken goed regelen. Bekijk welke verzekering bij uw bedrijf past.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/verzekeren/schade-melden/index.html",
+					"UrlText":"Schade melden",
+					"UrlAltText":"Direct een schadegeval doorgeven"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/verzekeren/zzp-schadepakket/index.html",
+					"UrlText":"ZZP Schadepakket",
+					"UrlAltText":"Speciaal voor ZZP'ers"	
+				},{
+					"Url":" https://www.abnamro.nl/nl/zakelijk/verzekeren/bedrijfspolis/index.html",
+					"UrlText":"Bedrijfspolis",
+					"UrlAltText":"Bepaal zelf wat u verzekert"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/verzekeren/ondernemersgemakverzekering/index.html",
+					"UrlText":"OndernemersGemakVerzekering",
+					"UrlAltText":"In één keer verzekerd tegen een scherpe prijs"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/verzekeren/inkomensverzekeringen/index.html",
+					"UrlText":"Inkomensverzekeringen",
+					"UrlAltText":"Beperk de kosten van ziekteverzuim en arbeidsongeschiktheid"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/verzekeren/veilig-online-pakket/index.html",
+					"UrlText":"Veilig Online Pakket van Hiscox",
+					"UrlAltText":"Bescherm uw bedrijf tegen online fraude"	
+				}]
+
+			},{
+
+				"Level":"2",
+				"Titel":"Ontdek welke spaarrekening bij u past",
+				"Url":"",
+				"UrlText":"Sparen",
+				"UrlAltText":"",
+				"Description":"Op zoek naar een zakelijke spaarrekening? Open direct online de spaarrekening die past bij uw wensen.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/sparen/spaarrentes.html",
+					"UrlText":"Alles over spaarrentes",
+					"UrlAltText":"Actuele spaarrentes, Renteontwikkeling, Uitleg over rentes, en Basisrentetarieven"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/sparen/zakelijk-flexibel-deposito/index.html",
+					"UrlText":"Zakelijk Flexibel Deposito",
+					"UrlAltText":"In één keer verzekerd tegen een scherpe prijs"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/sparen/zakelijk-kwartaal-deposito/index.html",
+					"UrlText":"Zakelijk Kwartaal Deposito",
+					"UrlAltText":"Beperk de kosten van ziekteverzuim en arbeidsongeschiktheid"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/sparen/zakelijk-jaar-deposito/index.html",
+					"UrlText":"Zakelijk Jaar Deposito",
+					"UrlAltText":"Bescherm uw bedrijf tegen online fraude"	
+				}]
+
+			},{
+
+				"Level":"2",
+				"Titel":"Aanvragen of wijzigen van een garantie",
+				"Url":"",
+				"UrlText":"Garanties",
+				"UrlAltText":"",
+				"Description":"Een bankgarantie biedt de zekerheid dat een afgesproken prestatie wordt geleverd. Zo niet, dan krijgt de tegenpartij een financiële compensatie. U staat daarmee extra sterk in een onderhandeling of bij een grote transactie.Bij ABN AMRO vraagt u heel eenvoudig online een garantie aan. Uw bestaande bankgarantie wijzigen doet u ook online.",
+				"Options":[],
+				"descriptionLinks":[{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/garanties/index.html",
+					"UrlText":"Ik wil meer informatie over garanties",
+					"UrlAltText":"Lees meer over de Garanties van ABN AMRO"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/garanties/f_aanvraag.html",
+					"UrlText":"Ik wil een garantie aanvragen",
+					"UrlAltText":"Vraag direct een garantie aan"	
+				},{
+					"Url":"https://www.abnamro.nl/nl/zakelijk/betalen/garanties/f_wijzig.html",
+					"UrlText":"Ik wil een garantie wijzigen",
+					"UrlAltText":"Wijzig uw garantie"	
+				}]
+
+			}]
+	}],
+	"footerTitel":"Niet gevonden wat u zocht?",
+	"footerLinks":[
+	{	
+		"Url":"https://www.abnamro.nl/nl/zakelijk/klantenservice/neem-contact-met-ons-op.html",
+		"UrlText":"bel ons",
+		"UrlAltText":"Telefoonnummers waarop u ons direct kunt bereiken"
+	},
+	{	
+		"Url":"https://www.abnamro.nl/nl/zakelijk/klantenservice/f_reactie.html",
+		"UrlText":"formulier",
+		"UrlAltText":"Neem contact op via het online formulier"	
+	},
+	{	
+		"Url":"https://www.twitter.com/abnamrozakelijk",
+		"UrlText":"twitter",
+		"UrlAltText":"Direct contact met onze webcare afdeling via Twitter"	
+	},
+	{	
+		"Url":"https://ondernemersforum.abnamro.nl",
+		"UrlText":"forum",
+		"UrlAltText":"Stel al uw ondernemersvragen of deel kennis op het Ondernemersforum"	
+	}]
+}
+		
+	
+		
+		
+	
+	
+	
+	
+
