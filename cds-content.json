@@ -44,44 +44,7 @@
  				"UrlAltText": "Internet Bankieren aanvragen"
  			}]
 
- 		}, {
- 			"Level": "3",
- 			"Titel": "Ik kan mijn hypotheek niet meer betalen",
- 			"Url": "",
- 			"UrlText": "Ik kan mijn hypotheek niet meer betalen",
- 			"UrlAltText": "",
- 			"Description": "Het kan gebeuren dat u uw maandbedrag niet meer kunt betalen. Als dit gebeurt, laat het ons weten zodat we samen met u kunnen zoeken naar een oplossing.",
- 			"Options": [],
- 			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/advies/geldproblemen/grip-op-uw-geld/index.html",
- 				"UrlText": "Ik wil weten wat ik hier aan kan doen",
- 				"UrlAltText": "Ik wil weten wat ik hier aan kan doen"
- 			}]
- 		}, {
- 			"Level": "3",
- 			"Titel": "Ik zit in een andere situatie",
- 			"Url": "",
- 			"UrlText": "Ik zit in een andere situatie",
- 			"UrlAltText": "",
- 			"Description": "",
- 			"Options": [],
- 			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/hypotheekvormen/aflossingsvrije-hypotheek/risico.html",
- 				"UrlText": "Ik heb nog een aflosvrije hypotheek",
- 				"UrlAltText": "Ik heb nog een aflosvrije hypotheek"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/pensioen/index.html",
- 				"UrlText": "Ik ga met pensioen",
- 				"UrlAltText": "Ik ga met pensioen"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/advies/ontslag/index.html",
- 				"UrlText": "Ik ben werkeloos geworden",
- 				"UrlAltText": "Ik ben werkeloos geworden"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/samenwonen/financiele-risicos.html",
- 				"UrlText": "Ik ben arbeidsongeschikt geworden",
- 				"UrlAltText": "Ik ben arbeidsongeschikt geworden"
- 			}]
+ 		}]
  		}],
  		"descriptionLinks": []
  	}, {
@@ -332,7 +295,45 @@
  					"Url": "https://www.abnamro.nl/nl/prive/hypotheken/mijn-hypotheek/meenemen.html",
  					"UrlText": "Meer over meenemen van uw hypotheek",
  					"UrlAltText": "Meer over meenemen van uw hypotheek"
- 				}]
+ 				}, 
+				{
+ 			"Level": "3",
+ 			"Titel": "Ik kan mijn hypotheek niet meer betalen",
+ 			"Url": "",
+ 			"UrlText": "Ik kan mijn hypotheek niet meer betalen",
+ 			"UrlAltText": "",
+ 			"Description": "Het kan gebeuren dat u uw maandbedrag niet meer kunt betalen. Als dit gebeurt, laat het ons weten zodat we samen met u kunnen zoeken naar een oplossing.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/advies/geldproblemen/grip-op-uw-geld/index.html",
+ 				"UrlText": "Ik wil weten wat ik hier aan kan doen",
+ 				"UrlAltText": "Ik wil weten wat ik hier aan kan doen"
+ 			}]
+ 		}, {
+ 			"Level": "3",
+ 			"Titel": "Ik zit in een andere situatie",
+ 			"Url": "",
+ 			"UrlText": "Ik zit in een andere situatie",
+ 			"UrlAltText": "",
+ 			"Description": "",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/hypotheekvormen/aflossingsvrije-hypotheek/risico.html",
+ 				"UrlText": "Ik heb nog een aflosvrije hypotheek",
+ 				"UrlAltText": "Ik heb nog een aflosvrije hypotheek"
+ 			}, {
+ 				"Url": "https://www.abnamro.nl/nl/prive/pensioen/index.html",
+ 				"UrlText": "Ik ga met pensioen",
+ 				"UrlAltText": "Ik ga met pensioen"
+ 			}, {
+ 				"Url": "https://www.abnamro.nl/nl/prive/advies/ontslag/index.html",
+ 				"UrlText": "Ik ben werkeloos geworden",
+ 				"UrlAltText": "Ik ben werkeloos geworden"
+ 			}, {
+ 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/samenwonen/financiele-risicos.html",
+ 				"UrlText": "Ik ben arbeidsongeschikt geworden",
+ 				"UrlAltText": "Ik ben arbeidsongeschikt geworden"
+ 			}]
  			}]
  		}, {
  		"Level": "2",
