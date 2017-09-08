@@ -1,23 +1,23 @@
  {
  	"Level": "1",
- 	"Titel": "Welke vraag heeft u over uw hypotheek?",
+ 	"Titel": "Kies de lening die u wilt wijzigen",
  	"Description": "",
  	"Options": [{
 
  		"Level": "2",
- 		"Titel": "Welke gegevens kan ik bekijken?",
+ 		"Titel": "Flexibel Krediet",
  		"Url": "",
- 		"UrlText": "Welke gegevens kan ik bekijken?",
+ 		"UrlText": "Flexibel Krediet",
  		"UrlAltText": "",
- 		"Description": "",
+ 		"Description": "Wat wilt u wijzigen?",
  		"Options": [{
 
  			"Level": "3",
- 			"Titel": "Inloggen in Internet bankieren",
+ 			"Titel": "Ik wil mijn limiet verhogen",
  			"Url": "",
- 			"UrlText": "Inloggen in Internet bankieren",
+ 			"UrlText": "Ik wil mijn limiet verhogen",
  			"UrlAltText": "",
- 			"Description": "Als u inlogt in Internet Bankieren en klikt in het overzicht op het rekeningnummer van u hypotheek,  hier ziet u in 1 handig overzicht al uw hypotheekgegevens. Zoals de hoogte van uw hypotheek,  het maandbedrag,  de hypotheekrente maar ook uw hypotheekvorm. Dus alles wat u wilt wijzigen staat handig bij elkaar.",
+ 			"Description": "De limiet van uw Flexibel Krediet verhoogt u eenvoudig zelf via Internet Bankieren. Log in en vul uw gegevens in. U ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
  			"Options": [],
  			"descriptionLinks": [{
  				"Url": "https://www.abnamro.nl/portalserver/nl/bankieren/rekeningen/overzicht?ed",
@@ -28,11 +28,163 @@
  		}, {
 
  			"Level": "3",
- 			"Titel": "Ik heb geen internet bankieren",
+ 			"Titel": "Ik wil mijn limiet verlagen",
  			"Url": "",
- 			"UrlText": "Ik heb geen internet bankieren",
+ 			"UrlText": "Ik wil mijn limiet verlagen",
  			"UrlAltText": "",
- 			"Description": "Heeft u geen Internet Bankieren maar wilt u toch uw hypotheekgegevens bekijken? Dan staan de gegevens ook op het overzicht dat u thuisgestuurd krijgt. Of neem contact op met één van onze adviseurs, die vertelt u graag meer over uw hypotheek.",
+ 			"Description": "De limiet van uw Flexibel Krediet verlaagt u eenvoudig zelf via Internet Bankieren. Log in en vul uw gegevens in. U ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/f_afspraak_telefonisch-advies.html",
+ 				"UrlText": "Direct telefonisch contact",
+ 				"UrlAltText": "Direct telefonisch contact"
+ 			}, {
+ 				"Url": "https://www.abnamro.nl/nl/prive/internet-en-mobiel/internet-bankieren/f_aanvragen.html",
+ 				"UrlText": "Internet Bankieren aanvragen",
+ 				"UrlAltText": "Internet Bankieren aanvragen"
+ 			}]
+
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik wil mijn Flexibel Krediet beeindigen",
+ 			"Url": "",
+ 			"UrlText": "Ik wil mijn Flexibel Krediet beeindigen",
+ 			"UrlAltText": "",
+ 			"Description": "U beëindigt uw Flexibel Krediet eenvoudig zelf via Internet Bankieren. Ook kunt u dit telefonisch of op een kantoor regelen. Houd u er dan wel rekening mee dat het ongeveer 1 week duurt voordat uw lening is opgezegd.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/f_afspraak_telefonisch-advies.html",
+ 				"UrlText": "Direct telefonisch contact",
+ 				"UrlAltText": "Direct telefonisch contact"
+ 			}, {
+ 				"Url": "https://www.abnamro.nl/nl/prive/internet-en-mobiel/internet-bankieren/f_aanvragen.html",
+ 				"UrlText": "Internet Bankieren aanvragen",
+ 				"UrlAltText": "Internet Bankieren aanvragen"
+ 			}]
+
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik wil mijn incasso rekening wijzigen",
+ 			"Url": "",
+ 			"UrlText": "Ik wil mijn incasso rekening wijzigen",
+ 			"UrlAltText": "",
+ 			"Description": "Wilt u het maandbedrag van uw Flexibel Krediet voortaan van een ander rekeningnummer laten afschrijven? Dat regelt u eenvoudig via Internet Bankieren.  Log in en vul uw gegevens in. U ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/f_afspraak_telefonisch-advies.html",
+ 				"UrlText": "Direct telefonisch contact",
+ 				"UrlAltText": "Direct telefonisch contact"
+ 			}, {
+ 				"Url": "https://www.abnamro.nl/nl/prive/internet-en-mobiel/internet-bankieren/f_aanvragen.html",
+ 				"UrlText": "Internet Bankieren aanvragen",
+ 				"UrlAltText": "Internet Bankieren aanvragen"
+ 			}]
+
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik wil betalen via incasso",
+ 			"Url": "",
+ 			"UrlText": "Ik wil betalen via incasso",
+ 			"UrlAltText": "",
+ 			"Description": "Wilt u uw Flexibel Krediet voortaan aflossen via een incasso? Dat regelt u eenvoudig via Internet Bankieren.  Log in en vul uw gegevens in. U ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/f_afspraak_telefonisch-advies.html",
+ 				"UrlText": "Direct telefonisch contact",
+ 				"UrlAltText": "Direct telefonisch contact"
+ 			}, {
+ 				"Url": "https://www.abnamro.nl/nl/prive/internet-en-mobiel/internet-bankieren/f_aanvragen.html",
+ 				"UrlText": "Internet Bankieren aanvragen",
+ 				"UrlAltText": "Internet Bankieren aanvragen"
+ 			}]
+
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik wil mijn maandbedrag wijzigen",
+ 			"Url": "",
+ 			"UrlText": "Ik wil mijn maandbedrag wijzigen",
+ 			"UrlAltText": "",
+ 			"Description": "Het maandbedrag van uw Flexibel Krediet wijzigt u eenvoudig zelf via Internet Bankieren.Log in en vul uw gegevens in. U ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/f_afspraak_telefonisch-advies.html",
+ 				"UrlText": "Direct telefonisch contact",
+ 				"UrlAltText": "Direct telefonisch contact"
+ 			}, {
+ 				"Url": "https://www.abnamro.nl/nl/prive/internet-en-mobiel/internet-bankieren/f_aanvragen.html",
+ 				"UrlText": "Internet Bankieren aanvragen",
+ 				"UrlAltText": "Internet Bankieren aanvragen"
+ 			}]
+
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik wil extra aflossen",
+ 			"Url": "",
+ 			"UrlText": "Ik wil extra aflossen",
+ 			"UrlAltText": "",
+ 			"Description": "Hoe sneller u uw Flexibel Krediet aflost, hoe minder die u kost. Dus heeft u onverwachts geld over? Dan kan het verstandig zijn om uw lening geheel of gedeeltelijk af te lossen. Extra aflossen kost u niets en is heel eenvoudig. U regelt het zelf via Internet Bankieren of uw Mobiele app.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/f_afspraak_telefonisch-advies.html",
+ 				"UrlText": "Direct telefonisch contact",
+ 				"UrlAltText": "Direct telefonisch contact"
+ 			}, {
+ 				"Url": "https://www.abnamro.nl/nl/prive/internet-en-mobiel/internet-bankieren/f_aanvragen.html",
+ 				"UrlText": "Internet Bankieren aanvragen",
+ 				"UrlAltText": "Internet Bankieren aanvragen"
+ 			}]
+
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik wil mijn lening blokkeren of deblokkeren",
+ 			"Url": "",
+ 			"UrlText": "Ik wil mijn lening blokkeren of deblokkeren",
+ 			"UrlAltText": "",
+ 			"Description": "Via Internet Bankieren kunt u zelf uw Flexibel Krediet blokkeren en deblokkeren. Log in en vul uw gegevens in. U ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/f_afspraak_telefonisch-advies.html",
+ 				"UrlText": "Direct telefonisch contact",
+ 				"UrlAltText": "Direct telefonisch contact"
+ 			}, {
+ 				"Url": "https://www.abnamro.nl/nl/prive/internet-en-mobiel/internet-bankieren/f_aanvragen.html",
+ 				"UrlText": "Internet Bankieren aanvragen",
+ 				"UrlAltText": "Internet Bankieren aanvragen"
+ 			}]
+
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik wil een lening oversluiten naar een Flexibel Krediet",
+ 			"Url": "",
+ 			"UrlText": "Ik wil een lening oversluiten naar een Flexibel Krediet",
+ 			"UrlAltText": "",
+ 			"Description": "Bij het aanvragen van het Flexibel Krediet kunt u aangeven dat u uw huidige lening wilt oversluiten. Wij sluiten dan uw lening over naar een Flexibel Krediet.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/f_afspraak_telefonisch-advies.html",
+ 				"UrlText": "Direct telefonisch contact",
+ 				"UrlAltText": "Direct telefonisch contact"
+ 			}, {
+ 				"Url": "https://www.abnamro.nl/nl/prive/internet-en-mobiel/internet-bankieren/f_aanvragen.html",
+ 				"UrlText": "Internet Bankieren aanvragen",
+ 				"UrlAltText": "Internet Bankieren aanvragen"
+ 			}]
+
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik kan mijn Flexibel Krediet niet meer betalen",
+ 			"Url": "",
+ 			"UrlText": "Ik kan mijn Flexibel Krediet niet meer betalen",
+ 			"UrlAltText": "",
+ 			"Description": "Het kan iedereen overkomen: u heeft onverwachts hoge kosten of (tijdelijk) minder inkomsten. Kunt u daardoor uw maandelijkse aflossing op uw lening niet meer op tijd betalen? Lees hoe u dat kunt voorkomen en hoe wij u kunnen helpen.",
  			"Options": [],
  			"descriptionLinks": [{
  				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/f_afspraak_telefonisch-advies.html",
@@ -48,9 +200,9 @@
  		"descriptionLinks": []
  	}, {
  		"Level": "2",
- 		"Titel": "Wijzigen hypotheekgegevens",
+ 		"Titel": "Privélimiet Plus",
  		"Url": "",
- 		"UrlText": "Wijzigen hypotheekgegevens",
+ 		"UrlText": "Privélimiet Plus",
  		"UrlAltText": "",
  		"Description": "",
  		"Options": [{
@@ -241,9 +393,9 @@
  		"descriptionLinks": []
  	}, {
  		"Level": "2",
- 		"Titel": "Mijn persoonlijke situatie wijzigt",
+ 		"Titel": "Studentenlimiet",
  		"Url": "",
- 		"UrlText": "Mijn persoonlijke situatie wijzigt",
+ 		"UrlText": "Studentenlimiet",
  		"UrlAltText": "",
  		"Description": "",
  		"Options": [{
@@ -354,9 +506,9 @@
 		},
  	{
  		"Level": "2",
- 		"Titel": "Actuele woononderwerpen",
+ 		"Titel": "Een andere lening",
  		"Url": "",
- 		"UrlText": "Actuele woononderwerpen",
+ 		"UrlText": "Een andere lening",
  		"UrlAltText": "",
  		"Description": "",
  		"Options": [{
