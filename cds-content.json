@@ -1,23 +1,23 @@
  {
  	"Level": "1",
- 	"Titel": "Welke vraag heeft u over uw hypotheek?",
+ 	"Titel": "Kies de lening die u wilt wijzigen",
  	"Description": "",
  	"Options": [{
 
  		"Level": "2",
- 		"Titel": "Welke gegevens kan ik bekijken?",
+ 		"Titel": "Flexibel Krediet",
  		"Url": "",
- 		"UrlText": "Welke gegevens kan ik bekijken?",
+ 		"UrlText": "Flexibel Krediet",
  		"UrlAltText": "",
- 		"Description": "",
+ 		"Description": "Wat wilt u wijzigen?",
  		"Options": [{
 
  			"Level": "3",
- 			"Titel": "Inloggen in Internet bankieren",
+ 			"Titel": "Ik wil mijn limiet verhogen",
  			"Url": "",
- 			"UrlText": "Inloggen in Internet bankieren",
+ 			"UrlText": "Ik wil mijn limiet verhogen",
  			"UrlAltText": "",
- 			"Description": "Als u inlogt in Internet Bankieren en klikt in het overzicht op het rekeningnummer van u hypotheek,  hier ziet u in 1 handig overzicht al uw hypotheekgegevens. Zoals de hoogte van uw hypotheek,  het maandbedrag,  de hypotheekrente maar ook uw hypotheekvorm. Dus alles wat u wilt wijzigen staat handig bij elkaar.",
+ 			"Description": "De limiet van uw Flexibel Krediet verhoogt u eenvoudig zelf via Internet Bankieren. Log in en vul uw gegevens in. U ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
  			"Options": [],
  			"descriptionLinks": [{
  				"Url": "https://www.abnamro.nl/portalserver/nl/bankieren/rekeningen/overzicht?ed",
@@ -28,395 +28,331 @@
  		}, {
 
  			"Level": "3",
- 			"Titel": "Ik heb geen internet bankieren",
+ 			"Titel": "Ik wil mijn limiet verlagen",
  			"Url": "",
- 			"UrlText": "Ik heb geen internet bankieren",
+ 			"UrlText": "Ik wil mijn limiet verlagen",
  			"UrlAltText": "",
- 			"Description": "Heeft u geen Internet Bankieren maar wilt u toch uw hypotheekgegevens bekijken? Dan staan de gegevens ook op het overzicht dat u thuisgestuurd krijgt. Of neem contact op met één van onze adviseurs, die vertelt u graag meer over uw hypotheek.",
- 			"Options": [],
- 			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/f_afspraak_telefonisch-advies.html",
- 				"UrlText": "Direct telefonisch contact",
- 				"UrlAltText": "Direct telefonisch contact"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/internet-en-mobiel/internet-bankieren/f_aanvragen.html",
- 				"UrlText": "Internet Bankieren aanvragen",
- 				"UrlAltText": "Internet Bankieren aanvragen"
- 			}]
-
- 		}],
- 		"descriptionLinks": []
- 	}, {
- 		"Level": "2",
- 		"Titel": "Wijzigen hypotheekgegevens",
- 		"Url": "",
- 		"UrlText": "Wijzigen hypotheekgegevens",
- 		"UrlAltText": "",
- 		"Description": "",
- 		"Options": [{
- 			"Level": "3",
- 			"Titel": "Ik wil extra aflossen op mijn hypotheek",
- 			"Url": "",
- 			"UrlText": "Ik wil extra aflossen op mijn hypotheek",
- 			"UrlAltText": "",
- 			"Description": "Elk jaar kunt u een gedeelte van uw hypotheek boetevrij aflossen. Dit is meestal 10% van het oorspronkelijke bedrag van een leningdeel. Hoeveel het precies is, staat in de voorwaarden van uw hypotheek.",
+ 			"Description": "De limiet van uw Flexibel Krediet verlaagt u eenvoudig zelf via Internet Bankieren. Log in en vul uw gegevens in. U ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
  			"Options": [],
  			"descriptionLinks": [{
  				"Url": "https://www.abnamro.nl/portalserver/nl/bankieren/rekeningen/overzicht?ed",
- 				"UrlText": "Direct extra aflossen via Internet Bankieren",
- 				"UrlAltText": "Direct extra aflossen via Internet Bankieren"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/extra-aflossen/wat-is-aflossen.html",
- 				"UrlText": "Wat is extra aflossen?",
- 				"UrlAltText": "Wat is extra aflossen?"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/extra-aflossen/hoe-werkt-het.html",
- 				"UrlText": "Hoe werkt extra aflossen?",
- 				"UrlAltText": "Hoe werkt extra aflossen?"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/extra-aflossen/afloscheck.html",
- 				"UrlText": "Is extra aflossen interessant voor mij?",
- 				"UrlAltText": "Is extra aflossen interessant voor mij?"
- 			}]
- 		}, {
- 			"Level": "3",
- 			"Titel": "Ik wil mijn hypotheekrente wijzigen",
- 			"Url": "",
- 			"UrlText": "Ik wil mijn hypotheekrente wijzigen",
- 			"UrlAltText": "",
- 			"Description": "Het wijzigen van uw hypotheekrente is niet altijd voordelig voor u. Het hangt af van uw persoonlijke situatie. Bekijk de situatie die bij u past.",
- 			"Options": [],
- 			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/hypotheekrente-wijzigen/einde-rentevastperiode/index.html",
- 				"UrlText": "Aan het einde van de rentevaste periode",
- 				"UrlAltText": "Aan het einde van de rentevaste periode"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/hypotheekrente-wijzigen/index.html",
- 				"UrlText": "Tussentijds rente wijzigen",
- 				"UrlAltText": "Tussentijds rente wijzigen"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/hypotheekrente-wijzigen/rentemiddeling.html",
- 				"UrlText": "Alles over rentemiddeling",
- 				"UrlAltText": "Alles over rentemiddeling"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/hypotheekrente-wijzigen/woz-waarde.html",
- 				"UrlText": "Tariefsklasse wijzigen",
- 				"UrlAltText": "Tariefsklasse wijzigen"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/hypotheekrente-wijzigen/einde-rentevastperiode/rente.html",
- 				"UrlText": "Meer over rentebedenktijd",
- 				"UrlAltText": "Meer over rentebedenktijd"
- 			}]
- 		}, {
-
- 			"Level": "3",
- 			"Titel": "Hypotheekgegevens wijzigen",
- 			"Url": "",
- 			"UrlText": "Hypotheekgegevens wijzigen",
- 			"UrlAltText": "",
- 			"Description": "Wilt u iets wijzigen aan uw huidige hypotheek?  Log in via Internet Bankieren en klik op het rekeningnummer van uw hypotheek.  Zo regelt u het zelf, makkelijk en snel.",
- 			"Options": [],
- 			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/link-naar-een-pdf",
- 				"UrlText": "LET OP! Uw rekeningnummer wijzigen",
- 				"UrlAltText": "Uw rekeningnummer wijzigen"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/contact/adres-wijzigen.html",
- 				"UrlText": "Uw postadres wijzigen",
- 				"UrlAltText": "Uw postadres wijzigen"
- 			}, {
- 				"Url": "",
- 				"UrlText": "LET OP! Toevoegen schuldenaar",
- 				"UrlAltText": "Toevoegen schuldenaar"
- 			}, {
- 				"Url": "",
- 				"UrlText": "LET OP! Verwijderen schuldenaar",
- 				"UrlAltText": "Verwijderen schuldenaar"
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
  			}]
 
  		}, {
 
  			"Level": "3",
- 			"Titel": "Aflosvorm wijzigen",
+ 			"Titel": "Ik wil mijn Flexibel Krediet beëindigen",
  			"Url": "",
- 			"UrlText": "Aflosvorm wijzigen",
+ 			"UrlText": "Ik wil mijn Flexibel Krediet beëindigen",
  			"UrlAltText": "",
- 			"Description": "Het kan zijn dat u niet tevreden bent met uw aflosvorm. Bekijk uw mogelijkheden.",
+ 			"Description": "U beëindigt uw Flexibel Krediet eenvoudig zelf via Internet Bankieren. Ook kunt u dit telefonisch of op een kantoor regelen. Houd u er dan wel rekening mee dat het ongeveer 1 week duurt voordat uw lening is opgezegd.",
  			"Options": [],
  			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/f_afspraak_telefonisch-advies.html",
- 				"UrlText": "Telefonisch advies",
- 				"UrlAltText": "Telefonisch advies"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/hypotheekvormen/aflossingsvrije-hypotheek/risico.html",
- 				"UrlText": "Aflosvrije hypotheek omzetten",
- 				"UrlAltText": "Aflosvrije hypotheek omzetten"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/mijn-hypotheek/kapitaaloverdracht/index.html",
- 				"UrlText": "Kapitaal overdragen",
- 				"UrlAltText": "Kapitaal overdragen"
+ 				"Url": "https://www.abnamro.nl/nl/prive/lenen/lening-opzeggen2.html",
+ 				"UrlText": "Mijn Flexibel Krediet opzeggen",
+ 				"UrlAltText": "Mijn Flexibel Krediet opzeggen"
+ 			}]
+
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik wil mijn incasso rekening wijzigen",
+ 			"Url": "",
+ 			"UrlText": "Ik wil mijn incasso rekening wijzigen",
+ 			"UrlAltText": "",
+ 			"Description": "Wilt u het maandbedrag van uw Flexibel Krediet voortaan van een ander rekeningnummer laten afschrijven? Dat regelt u eenvoudig via Internet Bankieren.  Log in en vul uw gegevens in. U ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/portalserver/nl/prive/lenen/flexibel-krediet/f_wijzigen.html?s",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
+ 			}]
+
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik wil betalen via incasso",
+ 			"Url": "",
+ 			"UrlText": "Ik wil betalen via incasso",
+ 			"UrlAltText": "",
+ 			"Description": "Wilt u uw Flexibel Krediet voortaan aflossen via een incasso? Dat regelt u eenvoudig via Internet Bankieren.  Log in en vul uw gegevens in. U ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/portalserver/nl/prive/lenen/flexibel-krediet/f_wijzigen.html?s",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
+ 			}]
+
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik wil mijn maandbedrag wijzigen",
+ 			"Url": "",
+ 			"UrlText": "Ik wil mijn maandbedrag wijzigen",
+ 			"UrlAltText": "",
+ 			"Description": "Het maandbedrag van uw Flexibel Krediet wijzigt u eenvoudig zelf via Internet Bankieren.Log in en vul uw gegevens in. U ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/portalserver/nl/prive/lenen/flexibel-krediet/f_wijzigen.html?s",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
+ 			}]
+
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik wil extra aflossen",
+ 			"Url": "",
+ 			"UrlText": "Ik wil extra aflossen",
+ 			"UrlAltText": "",
+ 			"Description": "Hoe sneller u uw Flexibel Krediet aflost, hoe minder die u kost. Dus heeft u onverwachts geld over? Dan kan het verstandig zijn om uw lening geheel of gedeeltelijk af te lossen. Extra aflossen kost u niets en is heel eenvoudig. U regelt het zelf via Internet Bankieren of uw Mobiele app.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/portalserver/nl/bankieren/rekeningen/overzicht?ed",		"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
  			}]
  		}, {
 
  			"Level": "3",
- 			"Titel": "Uw looptijd wijzigen",
+ 			"Titel": "Ik wil mijn lening blokkeren of deblokkeren",
  			"Url": "",
- 			"UrlText": "Uw looptijd wijzigen",
+ 			"UrlText": "Ik wil blokkeren of deblokkeren",
  			"UrlAltText": "",
- 			"Description": "Het wijzigen van uw looptijd hangt af van een aantal zaken. Zoals bijvoorbeeld uw huidige rente en de resterende looptijd van uw rentevaste periode.",
+ 			"Description": "Via Internet Bankieren kunt u zelf uw Flexibel Krediet blokkeren en deblokkeren. Log in en vul uw gegevens in. U ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
  			"Options": [],
  			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/advies/hypotheek-wijzigen-met-advies/index.html",
- 				"UrlText": "Looptijd verlengen",
- 				"UrlAltText": "Looptijd verlengen"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/advies/hypotheek-wijzigen-met-advies/index.html",
- 				"UrlText": "Looptijd verkorten",
- 				"UrlAltText": "Looptijd verkorten"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/mijn-hypotheek/looptijd-eindigt.html",
- 				"UrlText": "Meer over einde economische looptijd",
- 				"UrlAltText": "Meer over einde economische looptijd"
+ 				"Url": "https://www.abnamro.nl/portalserver/nl/prive/lenen/flexibel-krediet/f_wijzigen.html?s",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
  			}]
  		}, {
 
  			"Level": "3",
- 			"Titel": "Verbouwen",
+ 			"Titel": "Ik wil een lening oversluiten naar een Flexibel Krediet",
  			"Url": "",
- 			"UrlText": "Verbouwen",
+ 			"UrlText": "Ik wil een lening oversluiten naar een Flexibel Krediet",
  			"UrlAltText": "",
- 			"Description": "Door uw huidige hypotheek te verhogen wordt het misschien voor u mogelijk om dé keuken of badkamer te kopen  die u al zolang wilt. Gebruik eventueel de overwaarde op uw woning om uw hypotheek te verhogen of sluit  een tweede hypotheek af, dan kan die droom snel werkelijkheid worden.",
+ 			"Description": "Bij het aanvragen van het Flexibel Krediet kunt u aangeven dat u uw huidige lening wilt oversluiten. Wij sluiten dan uw lening over naar een Flexibel Krediet.",
  			"Options": [],
  			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/verbouwing-financieren/index.html",
- 				"UrlText": "Alles over verbouwen en uw hypotheek",
- 				"UrlAltText": "Alles over verbouwen en uw hypotheek"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/mijn-hypotheek/hypotheek-verhogen.html",
- 				"UrlText": "Uw hypotheek verhogen",
- 				"UrlAltText": "Uw hypotheek verhogen"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/geld-nodig/tweede-hypotheek.html",
- 				"UrlText": "Een tweede hypotheek afsluiten",
- 				"UrlAltText": "Een tweede hypotheek afsluiten"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/lenen/berekenen.html",
- 				"UrlText": "Berekenen of een lening mogelijk is",
- 				"UrlAltText": "Berekenen of een lening mogelijk is"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/bouwdepot/index.html",
- 				"UrlText": "Een bouwdepot voor uw verbouwing",
- 				"UrlAltText": "Een bouwdepot voor uw verbouwing"
+ 				"Url": "https://www.abnamro.nl/portalserver/nl/prive/lenen/flexibel-krediet/f_wijzigen.html?s",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
+ 			}]
+
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik kan mijn Flexibel Krediet niet meer betalen",
+ 			"Url": "",
+ 			"UrlText": "Ik kan mijn Flexibel Krediet niet meer betalen",
+ 			"UrlAltText": "",
+ 			"Description": "Het kan iedereen overkomen: u heeft onverwachts hoge kosten of (tijdelijk) minder inkomsten. Kunt u daardoor uw maandelijkse aflossing op uw lening niet meer op tijd betalen? Lees hoe u dat kunt voorkomen en hoe wij u kunnen helpen.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/advies/geldproblemen/grip-op-uw-geld/index.html",
+ 				"UrlText": "Lees hoe u weer grip op uw geld krijgt",
+ 				"UrlAltText": "Lees hoe u weer grip op uw geld krijgt"
+ 			}]
+
+ 		}],
+ 		"descriptionLinks": []
+ 	}, {
+ 		"Level": "2",
+ 		"Titel": "Privélimiet Plus",
+ 		"Url": "",
+ 		"UrlText": "Privélimiet Plus",
+ 		"UrlAltText": "",
+ 		"Description": "",
+ 		"Options": [{
+ 			"Level": "3",
+ 			"Titel": "Ik wil mijn limiet verhogen",
+ 			"Url": "",
+ 			"UrlText": "Ik wil mijn limiet verhogen",
+ 			"UrlAltText": "",
+ 			"Description": "Als u de limiet van uw Privélimiet Plus wilt verhogen, beoordelen wij uw aanvraag opnieuw. Wij vragen u daarom nog eens naar uw inkomsten en uitgaven.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/lenen/rood-staan/privelimiet-plus/aanvragen.html",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
+ 			}]
+ 		}, {
+ 			"Level": "3",
+ 			"Titel": "Ik wil mijn limiet verlagen",
+ 			"Url": "",
+ 			"UrlText": "Ik wil mijn limiet verlagen",
+ 			"UrlAltText": "",
+ 			"Description": "De limiet van uw Privélimiet Plus verlaagt  u eenvoudig zelf via Internet Bankieren. Log in en wijzig uw limiet. U ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/portalserver/nl/prive/lenen/rood-staan/privelimiet-plus/f_wijzigen.html?s",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
  			}]
  		}, {
 
  			"Level": "3",
- 			"Titel": "Maandbedrag van uw hypotheek verlagen",
+ 			"Titel": "Ik wil mijn Privélimiet Plus beëindigen",
  			"Url": "",
- 			"UrlText": "Maandlasten verlagen",
+ 			"UrlText": "Ik wil mijn Privélimiet Plus beëindigen",
  			"UrlAltText": "",
- 			"Description": "Wilt u profiteren van de lage hypotheekrente? Of is uw persoonlijke situatie veranderd? Reden genoeg om te kijken of het interessant voor u is om uw hypotheekrente te wijzigen.",
+ 			"Description": "U beëindigt uw Privélimiet Plus eenvoudig zelf via Internet Bankieren. Ook kunt u dit telefonisch of op een kantoor regelen. Houd u er dan wel rekening mee dat het ongeveer 1 week duurt voordat uw lening is opgezegd.",
  			"Options": [],
  			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/mijn-hypotheek/maandbedrag-verlagen.html",
- 				"UrlText": "Verlaag uw maandbedag",
- 				"UrlAltText": "Verlaag uw maandbedrag"
+ 				"Url": "https://www.abnamro.nl/nl/prive/lenen/rood-staan/lening-opzeggen.html",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
  			}]
- 		}
-		, {
+ 		}, {
 
  			"Level": "3",
- 			"Titel": "Ik wil iets anders wijzigen",
+ 			"Titel": "Ik wil extra aflossen",
  			"Url": "",
- 			"UrlText": "Ik wil iets anders wijzigen",
+ 			"UrlText": "Ik wil extra aflossen",
  			"UrlAltText": "",
- 			"Description": "Het zou kunnen dat u een andere wijziging wilt laten doen aan uw hypotheek.",
+ 			"Description": "U betaalt alleen rente over uw Privélimiet Plus als u rood staat. Dus heeft u onverwachts geld over? Dan is het verstandig uw roodstand geheel of gedeeltelijk af te lossen. Dat kost u niets en is heel eenvoudig. U regelt het zelf via Internet Bankieren of uw Mobiele app door geld naar uw Privélimiet Plus over te maken.",
  			"Options": [],
  			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/f_afspraak_telefonisch-advies.html",
- 				"UrlText": "Neem dan contact op",
- 				"UrlAltText": "Neem dan contact op"
+ 				"Url": "https://www.abnamro.nl/portalserver/nl/bankieren/rekeningen/overzicht?ed",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
+ 			}]
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik wil mijn Privélimiet Plus oversluiten naar een andere lening",
+ 			"Url": "",
+ 			"UrlText": "Ik wil mijn Privélimiet Plus oversluiten naar een andere lening",
+ 			"UrlAltText": "",
+ 			"Description": "Bij het aanvragen van uw nieuwe lening kunt u aangeven dat u uw Privélimiet Plus wilt oversluiten. Wij sluiten dan Privélimiet Plus over naar uw nieuwe lening.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/portalserver/nl/bankieren/rekeningen/overzicht?ed",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
+ 			}]
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik kan mijn Privélimiet Plus niet meer betalen",
+ 			"Url": "",
+ 			"UrlText": "Ik kan mijn Privélimiet Plus niet meer betalen",
+ 			"UrlAltText": "",
+ 			"Description": "Het kan iedereen overkomen: u heeft onverwachts hoge kosten of (tijdelijk) minder inkomsten. Kunt u daardoor uw maandelijkse aflossing op uw roodstand niet meer op tijd betalen? Lees hoe u dat kunt voorkomen en hoe wij u kunnen helpen.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/advies/geldproblemen/grip-op-uw-geld/index.html",
+ 				"UrlText": "Lees hoe u weer grip op uw geld krijgt",
+ 				"UrlAltText": "Lees hoe u weer grip op uw geld krijgt"
  			}]
  		}],
  		"descriptionLinks": []
  	}, {
  		"Level": "2",
- 		"Titel": "Mijn persoonlijke situatie wijzigt",
+ 		"Titel": "Studentenlimiet",
  		"Url": "",
- 		"UrlText": "Mijn persoonlijke situatie wijzigt",
+ 		"UrlText": "Studentenlimiet",
  		"UrlAltText": "",
  		"Description": "",
  		"Options": [{
  			"Level": "3",
- 			"Titel": "Wat moet ik doen bij een scheiding?",
+ 			"Titel": "Ik wil mijn limiet verhogen",
  			"Url": "",
- 			"UrlText": "Wat moet ik doen bij een scheiding?",
+ 			"UrlText": "Ik wil mijn limiet verhogen",
  			"UrlAltText": "",
- 			"Description": "Bij het regelen van uw scheiding komt veel kijken. Met onze dienstverlening ondersteunen we u in deze moeilijke tijd.",
+ 			"Description": "De limiet van uw Studentenlimiet verhoog je eenvoudig zelf via Internet Bankieren. Log in en vul je gegevens in. Je ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
  			"Options": [],
  			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/advies/scheiden/huis-en-hypotheek/index.html",
- 				"UrlText": "Hoe kunnen we u helpen?",
- 				"UrlAltText": "Hoe kunnen we u helpen?"
+ 				"Url": "https://www.abnamro.nl/portalserver/nl/prive/lenen/rood-staan/studentenlimiet/f_wijzigen.html?s",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
  			}]
  		}, {
  			"Level": "3",
- 			"Titel": "Hoe zit het met overlijden?",
+ 			"Titel": "Ik wil mijn limiet verlagen",
  			"Url": "",
- 			"UrlText": "Hoe zit het met overlijden?",
+ 			"UrlText": "Ik wil mijn limiet verlagen",
  			"UrlAltText": "",
- 			"Description": "Het overlijden van een naaste is altijd een emotionele gebeurtenis. En er moet ook veel geregeld worden. We maken het in deze moeilijke periode graag makkelijker voor u.",
+ 			"Description": "De limiet van je Studentenlimiet verlaag je eenvoudig zelf via Internet Bankieren. Log in en vul je gegevens in. Je ontvangt altijd een bericht van ons met de gewijzigde gegevens.",
  			"Options": [],
  			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/overlijden/overlijden-melden.html",
- 				"UrlText": "Hoe kunnen we u helpen?",
- 				"UrlAltText": "Hoe kunnen we u helpen?"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/advies/nalaten/index.html",
- 				"UrlText": "Hoe kunt u alles goed regelen?",
- 				"UrlAltText": "Hoe kunt u alles goed regelen?"
+ 				"Url": "https://www.abnamro.nl/portalserver/nl/prive/lenen/rood-staan/studentenlimiet/f_wijzigen.html?s",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
  			}]
  		}, {
- 			"Level": "3",
- 			"Titel": "Wij gaan samenwonen",
- 			"Url": "",
- 			"UrlText": "Wij gaan samenwonen",
- 			"UrlAltText": "",
- 			"Description": "Als u gaat samenwonen, kan dit financiële gevolgen hebben voor uw koopwoning. Het is handig om dan duidelijke afspraken te maken. Regel het goed, want er komt best veel bij kijken.",
- 			"Options": [],
- 			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/samenwonen/gevolgen-wonen.html",
- 				"UrlText": "Meer over samenwonen",
- 				"UrlAltText": "Meer over samenwonen"
- 			}]
- 		}, {
- 			"Level": "3",
- 			"Titel": "Ik wil mijn huis verkopen",
- 			"Url": "",
- 			"UrlText": "Ik wil mijn huis verkopen",
- 			"UrlAltText": "",
- 			"Description": "Als u wilt verhuizen en uw huis wilt verkopen is het belangrijk te weten welke waarde u mee kunt nemen. Soms is ook het meenemen van uw hypotheek gunstig.",
- 			"Options": [],
- 			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/restschuld/index.html",
- 				"UrlText": "Meer over restschuld",
- 				"UrlAltText": "Meer over restschuld"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/overwaarde/index.html",
- 				"UrlText": "Meer over overwaarde",
- 				"UrlAltText": "Meer over overwaarde"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/mijn-hypotheek/meenemen.html",
- 				"UrlText": "Meer over meenemen van uw hypotheek",
- 				"UrlAltText": "Meer over meenemen van uw hypotheek"
-			}]
-		}, 
-			{
- 				"Level": "3",
- 				"Titel": "Ik kan mijn hypotheek niet meer betalen",
- 				"Url": "",
- 				"UrlText": "Ik kan mijn hypotheek niet meer betalen",
- 				"UrlAltText": "",
- 				"Description": "Het kan gebeuren dat u uw maandbedrag niet meer kunt betalen. Als dit gebeurt, laat het ons weten zodat we samen met u kunnen zoeken naar een oplossing.",
- 				"Options": [],
- 				"descriptionLinks": [{
- 					"Url": "https://www.abnamro.nl/nl/prive/advies/geldproblemen/grip-op-uw-geld/index.html",
- 					"UrlText": "Ik wil weten wat ik hier aan kan doen",
- 					"UrlAltText": "Ik wil weten wat ik hier aan kan doen"
- 				}]
- 			}, {
- 				"Level": "3",
- 				"Titel": "Ik zit in een andere situatie",
- 				"Url": "",
- 				"UrlText": "Ik zit in een andere situatie",
- 				"UrlAltText": "",
- 				"Description": "",
- 				"Options": [],
- 				"descriptionLinks": [{
- 					"Url": "https://www.abnamro.nl/nl/prive/hypotheken/hypotheekvormen/aflossingsvrije-hypotheek/risico.html",
- 					"UrlText": "Ik heb nog een aflossingsvrije hypotheek",
- 					"UrlAltText": "Ik heb nog een aflossingsvrije hypotheek"
- 				}, {
- 					"Url": "https://www.abnamro.nl/nl/prive/pensioen/index.html",
- 					"UrlText": "Ik ga met pensioen",
- 					"UrlAltText": "Ik ga met pensioen"
- 				}, {
- 					"Url": "https://www.abnamro.nl/nl/prive/advies/ontslag/index.html",
- 					"UrlText": "Ik ben werkeloos geworden",
- 					"UrlAltText": "Ik ben werkeloos geworden"
- 				}, {
- 					"Url": "https://www.abnamro.nl/nl/prive/hypotheken/samenwonen/financiele-risicos.html",
- 					"UrlText": "Ik ben arbeidsongeschikt geworden",
- 					"UrlAltText": "Ik ben arbeidsongeschikt geworden"
- 				}]
- 			}],
- 			"descriptionLinks": []
-		},
- 	{
- 		"Level": "2",
- 		"Titel": "Actuele woononderwerpen",
- 		"Url": "",
- 		"UrlText": "Actuele woononderwerpen",
- 		"UrlAltText": "",
- 		"Description": "",
- 		"Options": [{
- 			"Level": "3",
- 			"Titel": "Maandlasten verlagen",
- 			"Url": "",
- 			"UrlText": "Maandlasten verlagen",
- 			"UrlAltText": "",
- 			"Description": "Wilt u profiteren van de lage hypotheekrente? Of is uw persoonlijke situatie veranderd? Reden genoeg om te kijken of het interessant voor u is om uw hypotheekrente te wijzigen.",
- 			"Options": [],
- 			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/mijn-hypotheek/maandbedrag-verlagen.html",
- 				"UrlText": "Verlaag uw maandbedrag",
- 				"UrlAltText": "Verlaag uw maandbedrag"
- 			}]
- 		}, {
- 			"Level": "3",
- 			"Titel": "Meer lezen over de woningmarkt",
- 			"Url": "",
- 			"UrlText": "Woningmarktmonitor",
- 			"UrlAltText": "",
- 			"Description": "De woningmarkt is constant in beweging. In de woniningmarktmonitor leest u elk kwartaal de nieuwsfeiten en de verwachtingen op de woningmarkt.",
- 			"Options": [],
- 			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/wonen/woningmarkt/woningmarktmonitor.html",
- 				"UrlText": "Lees de woningmarktmonitor",
- 				"UrlAltText": "Lees de woningmarktmonitor"
- 			}]
- 		}, {
- 			"Level": "3",
- 			"Titel": "Hypotheekadvies op zondag?",
- 			"Url": "",
- 			"UrlText": "Hypotheekadvies op zondag?",
- 			"UrlAltText": "",
- 			"Description": "Tegenwoordig kunt u ook hypotheekadvies op zondag krijgen. Via de webcam van uw cmputer of tablet staan onze adviseurs 7 dagen per week voor u klaar.",
- 			"Options": [],
- 			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/waarom-abn-amro.html",
- 				"UrlText": "Lees hoe we u helpen aan een hypotheek",
- 				"UrlAltText": "Lees hoe we u helpen aan een hypotheek"
- 			}]
- 		}, {
- 			"Level": "3",
- 			"Titel": "Meer lezen over rentestanden",
- 			"Url": "",
- 			"UrlText": "Meer lezen over rentestanden",
- 			"UrlAltText": "",
- 			"Description": "De hypotheekrente is constant in beweging. We houden u graag op de hoogte wat de voorspelling zijn op het gebied van hypotheekrente.",
- 			"Options": [],
- 			"descriptionLinks": [{
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/actuele-hypotheekrente/voorspelling-ontwikkeling-hypotheekrente.html",
- 				"UrlText": "Lees de voorspellingen voor de hypotheekrente",
- 				"UrlAltText": "Lees de voorspellingen voor de hypotheekrente"
- 			}, {
- 				"Url": "https://www.abnamro.nl/nl/prive/hypotheken/actuele-hypotheekrente/index.html",
- 				"UrlText": "Bekijk de actuele hypotheekrente",
- 				"UrlAltText": "Bekijk de actuele hypotheekrente"
- 			}]
 
- 		}]
- 	}],
- 	"descriptionLinks": []
+ 			"Level": "3",
+ 			"Titel": "Ik wil mijn Studentenlimiet beëindigen",
+ 			"Url": "",
+ 			"UrlText": "Ik wil mijn Studentenlimiet beëindigen",
+ 			"UrlAltText": "",
+ 			"Description": "Je beëindigt je Studentenlimiet eenvoudig en het snelst zelf via Internet Bankieren. Je kunt het ook via de telefoon of op een kantoor regelen. Houd er dan wel rekening mee dat het ongeveer 1 week duurt voordat je Studentenlimiet is opgezegd.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/lenen/rood-staan/lening-opzeggen.html",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
+ 			}]
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik wil extra aflossen",
+ 			"Url": "",
+ 			"UrlText": "Ik wil extra aflossen",
+ 			"UrlAltText": "",
+ 			"Description": "Je betaalt alleen rente over je Studentenlimeit als je rood staat. Dus heb je onverwachts geld over? Dan is het verstandig je roodstand geheel of gedeeltelijk af te lossen. Dat kost je niets en is heel eenvoudig. Je regelt het zelf via Internet Bankieren of uw Mobiele app door geld naar je Studentenlimiet over te maken.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/portalserver/nl/bankieren/rekeningen/overzicht?ed",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
+ 			}]
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "??Ik wil mijn Studentenlimiet oversluiten naar een andere lening",
+ 			"Url": "",
+ 			"UrlText": "??Ik wil mijn Studentenlimiet oversluiten naar een andere lening",
+ 			"UrlAltText": "",
+ 			"Description": "Bij het aanvragen van uw nieuwe lening kunt u aangeven dat u uw Privélimiet Plus wilt oversluiten. Wij sluiten dan Privélimiet Plus over naar uw nieuwe lening.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/portalserver/nl/bankieren/rekeningen/overzicht?ed",
+ 				"UrlText": "Direct inloggen in Internet Bankieren",
+ 				"UrlAltText": "Direct inloggen in Internet Bankieren"
+ 			}]
+ 		}, {
+
+ 			"Level": "3",
+ 			"Titel": "Ik kan mijn Studentenlimiet niet meer betalen",
+ 			"Url": "",
+ 			"UrlText": "Ik kan mijn Studentenlimiet niet meer betalen",
+ 			"UrlAltText": "",
+ 			"Description": "Het kan iedereen overkomen: je hebt onverwachts hoge kosten of (tijdelijk) minder inkomsten. Kun je daardoor je maandelijkse aflossing op je Studentenlimiet  niet meer op tijd betalen? Lees hoe je dat kunt voorkomen en hoe wij je kunnen helpen.",
+ 			"Options": [],
+ 			"descriptionLinks": [{
+ 				"Url": "https://www.abnamro.nl/nl/prive/advies/geldproblemen/grip-op-uw-geld/index.html",
+ 				"UrlText": "Lees hoe u weer grip op uw geld krijgt",
+ 				"UrlAltText": "Lees hoe u weer grip op uw geld krijgt"
+ 			}]
+		}],
+ 		"descriptionLinks": []
+	}, {
+ 		"Level": "2",
+ 		"Titel": "Een andere lening",
+ 		"Url": "",
+ 		"UrlText": "Een andere lening",
+ 		"UrlAltText": "",
+ 		"Description": "Heeft u een andere lening? Zoals bijvoorbeeld Rood Staan, een Privé-salarisrekening of Kwartaalkrediet? Dan kunt u deze wijzigen via Internet Bankieren. U kunt ons natuurlijk ook altijd bellen als u uw lening wilt wijzigen:  0800 - 024 07 19 (gratis). U ontvangt dan een schriftelijke bevestiging als uw lening is opgezegd.",
+ 		"Options": [],
+		"descriptionLinks": [{
+			"Url": "https://www.abnamro.nl/portalserver/nl/prive/lenen/f_wijziging_overig.html?s",
+			"UrlText": "Direct inloggen in Internet Bankieren",
+			"UrlAltText": "Direct inloggen in Internet Bankieren"
+		}]
+	}]
  }
