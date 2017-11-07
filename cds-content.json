@@ -304,7 +304,7 @@
  			"Url": "",
  			"UrlText": "Ik wil extra aflossen",
  			"UrlAltText": "",
- 			"Description": "Je betaalt alleen rente over je Studentenlimeit als je rood staat. Dus heb je onverwachts geld over? Dan is het verstandig je roodstand geheel of gedeeltelijk af te lossen. Dat kost je niets en is heel eenvoudig. Je regelt het zelf via Internet Bankieren of uw Mobiele app door geld naar je Studentenlimiet over te maken.",
+ 			"Description": "Dat regel je zelf via Internet Bankieren of je Mobiele app door geld naar je rekening over te maken.",
  			"Options": [],
  			"descriptionLinks": [{
  				"Url": "https://www.abnamro.nl/portalserver/nl/bankieren/rekeningen/overzicht?ed",
@@ -314,11 +314,11 @@
  		}, {
 
  			"Level": "3",
- 			"Titel": "??Ik wil mijn Studentenlimiet oversluiten naar een andere lening",
+ 			"Titel": "Ik wil mijn Studentenlimiet oversluiten naar een andere lening",
  			"Url": "",
- 			"UrlText": "??Ik wil mijn Studentenlimiet oversluiten naar een andere lening",
+ 			"UrlText": "Ik wil mijn Studentenlimiet oversluiten naar een andere lening",
  			"UrlAltText": "",
- 			"Description": "Bij het aanvragen van uw nieuwe lening kunt u aangeven dat u uw Privélimiet Plus wilt oversluiten. Wij sluiten dan Privélimiet Plus over naar uw nieuwe lening.",
+ 			"Description": "Bij het aanvragen van je nieuwe lening kun je aangeven dat u je je Studentenlimiet wilt oversluiten. Wij sluiten dan je Studentenlimiet over naar uw nieuwe lening.",
  			"Options": [],
  			"descriptionLinks": [{
  				"Url": "https://www.abnamro.nl/portalserver/nl/bankieren/rekeningen/overzicht?ed",
@@ -347,7 +347,7 @@
  		"Url": "",
  		"UrlText": "Een andere lening",
  		"UrlAltText": "",
- 		"Description": "Heeft u een andere lening? Zoals bijvoorbeeld Rood Staan, een Privé-salarisrekening of Kwartaalkrediet? Dan kunt u deze wijzigen via Internet Bankieren. U kunt ons natuurlijk ook altijd bellen als u uw lening wilt wijzigen:  0800 - 024 07 19 (gratis). U ontvangt dan een schriftelijke bevestiging als uw lening is opgezegd.",
+ 		"Description": "Heeft u een andere lening? Zoals bijvoorbeeld Rood Staan, een Privé-salarisrekening of Kwartaalkrediet? Dan kunt u deze wijzigen via Internet Bankieren. U kunt ons natuurlijk ook altijd bellen als u uw lening wilt wijzigen:  0800 - 024 07 11 (gratis). U ontvangt dan een schriftelijke bevestiging als uw lening is opgezegd.",
  		"Options": [],
 		"descriptionLinks": [{
 			"Url": "https://www.abnamro.nl/portalserver/nl/prive/lenen/f_wijziging_overig.html?s",
